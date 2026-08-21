@@ -1,23 +1,29 @@
 <table>
 <tr>
-<td width="30%" align="center">
+<td width="28%" align="center">
 
-<img src="./Avatar.png" width="220" alt="Enzo Alvino">
+<img src="./Avatar.png" width="190" alt="Enzo Alvino">
 
 </td>
 
-<td width="70%">
+<td width="72%">
 
-# Hola, soy Enzo Alvino 👋
+<h1>Hola, soy Enzo Alvino 👋</h1>
 
-### Data Analyst • Big Data • Data Science • Machine Learning • Investigación Aplicada
+<p>
+<strong>Data Analyst • Data Science • Machine Learning • Big Data</strong>
+</p>
+
+<p>
+Desarrollo soluciones basadas en datos para analizar información,
+automatizar procesos y apoyar la toma de decisiones.
+</p>
 
 </td>
 </tr>
 </table>
 
 ---
-
 ---
 
 ## Sobre mí
