@@ -313,6 +313,25 @@ Arquitecturas con LLMs, RAG, memoria y componentes de IA.
 
 ### ☁️ Cloud & Data Platforms
 
+Exploración de arquitecturas de datos y soluciones analíticas en la nube.
+
+</td>
+</tr>
+</table>
+
+> **Enfoque:** evolucionar desde el análisis de datos hacia la construcción de soluciones de datos, Machine Learning e IA.
+
+
+---
+
+## Objetivo Profesional
+
+> **Transformar datos en soluciones que generen valor.**
+
+Desarrollar soluciones de **Data Analytics, Data Science y Machine Learning** que permitan convertir datos en insights accionables, automatizar procesos y apoyar decisiones de negocio.
+
+---
+
 ## Contacto
 
 <p align="center">
@@ -335,10 +354,3 @@ Arquitecturas con LLMs, RAG, memoria y componentes de IA.
 </p>
 
 
----
-
-## Contacto
-
-📧 [enzo.alvino.00@gmail.com](mailto:enzo.alvino.00@gmail.com)
-
-Gracias por visitar mi perfil.
