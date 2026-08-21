@@ -261,12 +261,65 @@ Proyecto de minería de datos aplicado al análisis de clientes, identificación
 
 ---
 
-## Actualmente aprendiendo
+## Actualmente explorando
 
-* Data Engineering
-* Model Deployment
-* Arquitectura de Datos
-* MLOps
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Data Engineering
+
+Pipelines de datos, procesos ETL y procesamiento de información a escala.
+
+</td>
+
+<td width="50%">
+
+### 🚀 Model Deployment
+
+Despliegue de modelos predictivos y soluciones de Machine Learning.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Arquitectura de Datos
+
+Diseño de soluciones para integrar, procesar, almacenar y disponibilizar datos.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ MLOps
+
+Automatización, versionado, despliegue y monitoreo del ciclo de vida de modelos.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Sistemas Inteligentes
+
+Arquitecturas con LLMs, RAG, memoria y componentes de IA.
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & Data Platforms
+
+Exploración de arquitecturas de datos y soluciones analíticas en la nube.
+
+</td>
+</tr>
+</table>
+
+> **Enfoque:** evolucionar desde el análisis de datos hacia la construcción de soluciones de datos, Machine Learning e IA.
 
 ---
 
