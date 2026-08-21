@@ -11,19 +11,19 @@
 <h1>Hola, soy Enzo Alvino 👋</h1>
 
 <p>
-<strong>Data Analyst • Data Science • Machine Learning • Big Data</strong>
+<strong>Data Analyst • Business Analytics • Data Science • Machine Learning</strong>
 </p>
 
 <p>
-Desarrollo soluciones basadas en datos para analizar información,
-automatizar procesos y apoyar la toma de decisiones.
+Me enfoco en transformar datos en soluciones analíticas, modelos predictivos
+y procesos automatizados, utilizando <strong>Python, SQL, Power BI y Google Cloud</strong>
+para generar información útil y apoyar la toma de decisiones.
 </p>
 
 </td>
 </tr>
 </table>
 
----
 ---
 
 ## Sobre mí
