@@ -185,13 +185,79 @@ Uso de datos y tecnología para abordar problemas reales y generar soluciones or
 
 ## Proyectos Destacados
 
-📌 Modelo Predictivo Automatizado para Estimación de Pérdida Esperada bajo NIIF 9 *(En desarrollo)*
+<table>
+<tr>
+<td width="50%">
 
-📌 Sistema de Modelos Predictivos con Machine Learning
+### 🧠 EVA — Sistema Inteligente
 
-📌 Proyecto de Minería de Datos aplicado a analítica de clientes
+Arquitectura modular para un sistema inteligente basado en IA, con integración de modelos de lenguaje, recuperación de información, memoria persistente y observabilidad.
 
-📌 Proyecto Big Data sobre procesamiento y análisis de datos
+**Stack:** Python · FastAPI · PostgreSQL · pgvector · LangGraph · LlamaIndex
+
+**Estado:** En desarrollo
+
+</td>
+
+<td width="50%">
+
+### 🔮 CobraPredict
+
+Aplicación web para la clasificación y gestión del **riesgo de pago** mediante Machine Learning, orientada a apoyar la priorización y toma de decisiones.
+
+**Stack:** Python · XGBoost · Pandas · Streamlit
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📉 Pérdida Esperada — NIIF 9
+
+Solución orientada a automatizar el cálculo de la **pérdida esperada** mediante procesamiento de datos y modelos predictivos.
+
+**Stack:** Python · SQL · Machine Learning · SAP
+
+**Estado:** En desarrollo
+
+</td>
+
+<td width="50%">
+
+### 📊 Business Analytics
+
+Dashboard ejecutivo orientado al análisis de ventas, clientes y principales indicadores para transformar datos en información útil para el negocio.
+
+**Stack:** Power BI · DAX · Power Query · SQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Big Data Pipeline
+
+Proyecto enfocado en el procesamiento y análisis distribuido de grandes volúmenes de datos mediante tecnologías del ecosistema Big Data.
+
+**Stack:** Hadoop · Spark · PySpark · Databricks
+
+</td>
+
+<td width="50%">
+
+### 📈 Customer Analytics
+
+Proyecto de minería de datos aplicado al análisis de clientes, identificación de patrones y construcción de modelos para apoyar decisiones de negocio.
+
+**Stack:** Python · Pandas · Scikit-Learn · Matplotlib
+
+</td>
+</tr>
+</table>
+
+> **Enfoque:** transformar datos en soluciones analíticas, predictivas, automatizadas e inteligentes.
 
 ---
 
