@@ -28,14 +28,63 @@ para generar información útil y apoyar la toma de decisiones.
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería orientado al desarrollo de soluciones basadas en datos, con interés en **Big Data, Ciencia de Datos, Machine Learning e investigación aplicada**.
+Soy estudiante de Ingeniería enfocado en **Data Analytics, Business Analytics y Data Science**, con interés en desarrollar soluciones que conecten **datos, tecnología y necesidades de negocio**.
 
-Actualmente enfoco mi crecimiento en:
+<table>
+<tr>
+<td width="50%">
 
-* Diseño y evaluación de modelos predictivos
-* Ingeniería y análisis de datos
-* Inteligencia de negocios (BI)
-* Automatización y optimización de procesos
+### 📊 Análisis de datos
+
+Transformación, exploración e interpretación de datos para obtener información relevante.
+
+</td>
+<td width="50%">
+
+### 🤖 Machine Learning
+
+Desarrollo y evaluación de modelos predictivos para identificar patrones y anticipar comportamientos.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 Business Intelligence
+
+Creación de análisis y visualizaciones que faciliten la comprensión de información para el negocio.
+
+</td>
+<td width="50%">
+
+### ⚙️ Automatización
+
+Optimización de procesos mediante programación, integración de datos y soluciones automatizadas.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Ingeniería de datos
+
+Preparación, transformación y gestión de datos para construir soluciones analíticas confiables.
+
+</td>
+<td width="50%">
+
+### 🔬 Investigación aplicada
+
+Uso de datos y tecnología para abordar problemas reales y generar soluciones orientadas a resultados.
+
+</td>
+</tr>
+</table>
+
+> **Enfoque:** transformar datos en soluciones útiles, medibles y orientadas a la toma de decisiones.
+
 * Investigación aplicada orientada a decisiones basadas en datos
 
 ---
