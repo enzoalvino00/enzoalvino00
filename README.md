@@ -85,7 +85,6 @@ Uso de datos y tecnología para abordar problemas reales y generar soluciones or
 
 > **Enfoque:** transformar datos en soluciones útiles, medibles y orientadas a la toma de decisiones.
 
-* Investigación aplicada orientada a decisiones basadas en datos
 
 ---
 
