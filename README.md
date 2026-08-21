@@ -1,6 +1,22 @@
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img src="./Avatar.png" width="220" alt="Enzo Alvino">
+
+</td>
+
+<td width="70%">
+
 # Hola, soy Enzo Alvino 👋
 
 ### Data Analyst • Big Data • Data Science • Machine Learning • Investigación Aplicada
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
