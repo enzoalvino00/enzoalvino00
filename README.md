@@ -323,9 +323,17 @@ Exploración de arquitecturas de datos y soluciones analíticas en la nube.
 
 ---
 
-## Objetivo Profesional
+<h2>🎯 Objetivo Profesional</h2>
 
-Construir soluciones analíticas y modelos inteligentes que transformen datos en decisiones estratégicas.
+<blockquote>
+  <strong>Transformar datos en soluciones que generen valor.</strong>
+</blockquote>
+
+<p>
+Desarrollar soluciones de <strong>Data Analytics, Data Science y Machine Learning</strong>
+que permitan convertir datos en insights accionables, automatizar procesos
+y apoyar decisiones de negocio.
+</p>
 
 ---
 
