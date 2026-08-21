@@ -336,21 +336,18 @@ Desarrollar soluciones de **Data Analytics, Data Science y Machine Learning** qu
 
 <p align="center">
   <strong>¿Tienes una oportunidad, proyecto o idea relacionada con datos?</strong><br>
-  Me interesa conectar, colaborar y seguir construyendo soluciones basadas en datos.
+  Estoy abierto a conectar, colaborar y construir soluciones basadas en datos.
 </p>
 
 <p align="center">
   <a href="mailto:enzo.alvino.001@gmail.com">
     <img src="https://img.shields.io/badge/Email-enzo.alvino.001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enzo-alvino/">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Alvino-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<p align="center">
-  <sub>Data Analytics • Data Science • Machine Learning • Big Data</sub>
-</p>
-
+---
 
