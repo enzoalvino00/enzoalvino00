@@ -1,28 +1,15 @@
-<table>
-<tr>
-<td width="28%" align="center">
+<div align="center">
 
-<img src="./Avatar.png" width="190" alt="Enzo Alvino">
+<img src="./Portada.gif" width="100%" alt="Enzo Alvino - Data Analyst">
 
-</td>
+</div>
 
-<td width="72%">
+<br>
 
-<h1>Hola, soy Enzo Alvino 👋</h1>
+## Sobre mí
 
-<p>
-<strong>Data Analyst • Business Analytics • Data Science • Machine Learning</strong>
-</p>
+Soy estudiante de Ingeniería enfocado en **Data Analytics, Business Analytics y Data Science**, con interés en desarrollar soluciones basadas en datos.
 
-<p>
-Me enfoco en transformar datos en soluciones analíticas, modelos predictivos
-y procesos automatizados, utilizando <strong>Python, SQL, Power BI y Google Cloud</strong>
-para generar información útil y apoyar la toma de decisiones.
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
