@@ -6,10 +6,6 @@
 
 <br>
 
-## Sobre mí
-
-Soy estudiante de Ingeniería enfocado en **Data Analytics, Business Analytics y Data Science**, con interés en desarrollar soluciones basadas en datos.
-
 
 ---
 
